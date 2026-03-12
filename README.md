@@ -11,3 +11,5 @@ Os códigos deste repositorio devem estar estilizados e estruturados de acordo c
 
 ### dever-01: A barreira do n²
 
+### dever-02: Fatorial e sua complexidade
+
