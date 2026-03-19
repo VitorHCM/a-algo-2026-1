@@ -13,3 +13,5 @@ Os códigos deste repositorio devem estar estilizados e estruturados de acordo c
 
 ### dever-02: Fatorial e sua complexidade
 
+### dever-03: Recursão para palíndromos
+
