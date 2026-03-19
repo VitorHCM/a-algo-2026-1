@@ -14,15 +14,15 @@ def checkPalindromo (lista):
     else: # caso as letras nao sejam iguais a palavra nao sera um palindromo
         return -1 # retorna -1 para a main
 
-def main (lista):
+def main (lista): # main para verificar o size da lista e printar resultados
     if (len(lista) <= 1): # caso lista muito pequena ( <= 1)
-        print('A palavra', lista, 'possui apenas uma letra!\n')
+        print('A palavra', lista, 'possui uma letra ou menos!\n')
         return
     else:
         resultado = checkPalindromo(lista)
-        if(resultado == 1):
+        if(resultado == 1): # caso sim
             print('A palavra', lista, 'é um palindromo!\n')
-        else:
+        else: # caso nao seja
             print('A palavra', lista, 'não é um palindromo!\n')
 
 lista = ['a','b','c','b','a'] # palindromo impar
@@ -30,6 +30,7 @@ lista1 = ['a','b','c','c','b','a'] # palindromo par
 lista2 = ['a','z','c','c','b','a'] # nao palindromo par
 lista12 = ['a','c','c','b','a'] # palindromo impar
 lista3 = ['a'] # palavra de uma letra
+lista4 = [] # lista vazia
 
 os.system('clear')
 
@@ -38,3 +39,4 @@ main(lista1)
 main(lista2)
 main(lista12)
 main(lista3)
+main(lista4)
