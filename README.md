@@ -15,3 +15,6 @@ Os códigos deste repositorio devem estar estilizados e estruturados de acordo c
 
 ### dever-03: Recursão para palíndromos
 
+### dever-04: Função recursiva
+
+
