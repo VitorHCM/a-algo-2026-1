@@ -17,4 +17,6 @@ Os códigos deste repositorio devem estar estilizados e estruturados de acordo c
 
 ### dever-04: Função recursiva
 
+### dever-05: Calculo de complexidade
+
 
