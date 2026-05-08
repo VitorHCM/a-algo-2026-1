@@ -4,7 +4,7 @@
 
 https://cdn.cs50.net/ai/2023/x/projects/0/tictactoe.zip
 
-<clipboard-copy value="Text to copy">[Copy to clipboard](https://cdn.cs50.net/ai/2023/x/projects/0/tictactoe.zip)</clipboard-copy>
+<clipboard-copy value="Text to copy">(https://cdn.cs50.net/ai/2023/x/projects/0/tictactoe.zip)</clipboard-copy>
 
 - Uma vez no diretório do projeto, execute: 
 
