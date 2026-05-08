@@ -2,13 +2,21 @@
 
 ## Baixe o arquivo:
 
-- > https://cdn.cs50.net/ai/2023/x/projects/0/tictactoe.zip
+> https://cdn.cs50.net/ai/2023/x/projects/0/tictactoe.zip
 
-- Uma vez no diretório do projeto, execute pip3 install -r requirements.txt para instalar o pacote Python requerido (pygame) para esse projeto.
+- Uma vez no diretório do projeto, execute: 
+
+> pip3 install -r requirements.txt
+
+- para instalar o pacote Python requerido (pygame) para esse projeto.
 
 ## O CÓDIGO
 
-- Existem dois arquivos principais neste projeto: runner.py e tictactoe.py.
+- Existem dois arquivos principais neste projeto: 
+
+> runner.py 
+
+> tictactoe.py.
 
 - tictactoe.py contém toda a lógica para jogar o jogo e para fazer movimentos ideais.
 
@@ -32,13 +40,13 @@ interna contém três valores que são X, O ou EMPTY.
 # ESPECIFICAÇÃO
 
 - Conclua as implementações de: 
-- - player;
-- - actions; 
-- - result; 
-- - winner; 
-- - terminal; 
-- - utility; 
-- - minimax.
+    - player;
+    - actions; 
+    - result; 
+    - winner; 
+    - terminal; 
+    - utility; 
+    - minimax.
 
 - A função player deve receber um estado do tabuleiro como entrada e retornar qual é o turno do jogador (X ou O).
 
@@ -67,8 +75,9 @@ consideração de muitos estados diferentes do tabuleiro durante seu processamen
 uma célula no quadro em si não é uma implementação correta da função de resultado. Você provavelmente desejará fazer uma
 cópia profunda do quadro antes de fazer qualquer alteração.
 
-- Deepcopy: 
-- > https://docs.python.org/3/library/copy.html#copy.deepcopy
+### Deepcopy: 
+
+> https://docs.python.org/3/library/copy.html#copy.deepcopy
 
 - A função winner deve aceitar um tabuleiro como entrada e retornar o vencedor do tabuleiro, se houver.
 
