@@ -2,7 +2,7 @@
 
 ## Baixe o arquivo:
 
-> https://cdn.cs50.net/ai/2023/x/projects/0/tictactoe.zip
+`https://cdn.cs50.net/ai/2023/x/projects/0/tictactoe.zip`
 
 - Uma vez no diretório do projeto, execute: 
 
