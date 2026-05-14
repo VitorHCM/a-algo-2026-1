@@ -9,14 +9,15 @@ Os códigos deste repositorio devem estar estilizados e estruturados de acordo c
 
 ## Deveres de Casa:
 
-### dever-01: A barreira do n²
+### dever-01: A barreira do n² [CONCLUIDO]
 
-### dever-02: Fatorial e sua complexidade
+### dever-02: Fatorial e sua complexidade [CONCLUIDO]
 
-### dever-03: Recursão para palíndromos
+### dever-03: Recursão para palíndromos [CONCLUIDO]
 
-### dever-04: Função recursiva
+### dever-04: Função recursiva [CONCLUIDO]
 
-### dever-05: Calculo de complexidade
-
+### dever-05: Calculo de complexidade [CONCLUIDO]
+ 
+### dever-06: Tictactoe [CONCLUIDO]
 
