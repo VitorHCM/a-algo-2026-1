@@ -21,3 +21,5 @@ Os códigos deste repositorio devem estar estilizados e estruturados de acordo c
  
 ### dever-06: Tictactoe [CONCLUIDO]
 
+### dever-07: O Desafio do Pronto-Socorro [CONCLUIDO]
+
