@@ -9,30 +9,30 @@ Os códigos deste repositorio devem estar estilizados e estruturados de acordo c
 
 ## Deveres de Casa:
 
-### dever-01: A barreira do n² [CONCLUIDO]
+dever-01: A barreira do n² [CONCLUIDO]
 
-### dever-02: Fatorial e sua complexidade [CONCLUIDO]
+dever-02: Fatorial e sua complexidade [CONCLUIDO]
 
-### dever-03: Recursão para palíndromos [CONCLUIDO]
+dever-03: Recursão para palíndromos [CONCLUIDO]
 
-### dever-04: Função recursiva [CONCLUIDO]
+dever-04: Função recursiva [CONCLUIDO]
 
-### dever-05: Calculo de complexidade [CONCLUIDO]
+dever-05: Calculo de complexidade [CONCLUIDO]
  
-### dever-06: Tictactoe [CONCLUIDO]
+dever-06: Tictactoe [CONCLUIDO]
 
-### dever-07: O Desafio do Pronto-Socorro [CONCLUIDO]
+dever-07: O Desafio do Pronto-Socorro [CONCLUIDO]
 
-### dever-08: PRIM I [Pendente]
+dever-08: PRIM I [Pendente]
 
-### dever-09: PRIM II [Pendente]
+dever-09: PRIM II [Pendente]
 
-### dever-10: Bellman Ford [Pendente]
+dever-10: Bellman Ford [Pendente]
 
-### dever-11: Dijkstra [Pendente]
+dever-11: Dijkstra [Pendente]
 
-### dever-12: O Desafio da Árvore Geradora Máxima (Kruskal) [Pendente]
+dever-12: O Desafio da Árvore Geradora Máxima (Kruskal) [Pendente]
 
-### dever-13: Algoritimo KNN - Aplicação Médica. [Pendente]
+dever-13: Algoritimo KNN - Aplicação Médica. [Pendente]
 
 
