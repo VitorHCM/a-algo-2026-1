@@ -23,9 +23,9 @@ dever-06: Tictactoe [CONCLUIDO]
 
 dever-07: O Desafio do Pronto-Socorro [CONCLUIDO]
 
-dever-08: PRIM I [Pendente]
+dever-08: PRIM I [CONCLUIDO]
 
-dever-09: PRIM II [Pendente]
+dever-09: PRIM II [CONCLUIDO]
 
 dever-10: Bellman Ford [Pendente]
 
