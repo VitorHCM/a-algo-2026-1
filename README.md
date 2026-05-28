@@ -31,8 +31,6 @@ dever-10: Bellman Ford [Pendente]
 
 dever-11: Dijkstra [Pendente]
 
-dever-12: O Desafio da Árvore Geradora Máxima (Kruskal) [Pendente]
 
-dever-13: Algoritimo KNN - Aplicação Médica. [Pendente]
 
 
