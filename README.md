@@ -27,9 +27,9 @@ dever-08: PRIM I [CONCLUIDO]
 
 dever-09: PRIM II [CONCLUIDO]
 
-dever-10: Bellman Ford [Pendente]
+dever-10: Bellman Ford [CONCLUIDO]
 
-dever-11: Dijkstra [Pendente]
+dever-11: Dijkstra [CONCLUIDO]
 
 
 
